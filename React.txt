@@ -1,0 +1,7 @@
+How to create a react App
+----------------------------
+npm create vite@latest
+
+To run
+-----
+npm run dev
